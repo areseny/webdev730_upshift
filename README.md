@@ -38,8 +38,6 @@ Technology
 * React.js
 * Redux architectural framework
 
-Further technological implementation details [here](https://github.com/jonjaffe/shift/blob/master/docs/technology.md)
-
 Future Plans
 -----
 ### Test drive integration with mailer and Google Maps API
